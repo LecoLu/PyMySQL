@@ -3,6 +3,8 @@
 
 # PyMySQL
 
+该python模块已经弃用，现在一般选择使用mysqlclient模块
+
 This package contains a pure-Python MySQL client library, based on [PEP
 249](https://www.python.org/dev/peps/pep-0249/).
 
